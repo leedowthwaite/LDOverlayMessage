@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
   It is to be used in htose situations when you want to just show a transient informational message such as "Item saved", "Network not found", etc.
                    DESC
 
-  s.homepage     = "http://EXAMPLE/LDOverlayMessage"
+  s.homepage     = "https://github.com/leedowthwaite/LDOverlayMessage"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
